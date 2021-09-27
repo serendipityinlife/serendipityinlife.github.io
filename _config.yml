@@ -21,7 +21,8 @@ github_username:
 minimal_mistakes_skin: contrast
 search: true
 
-header: /assets/images/HaileyChou_like a teacher.jpg
+header: 
+  teaser: /assets/images/HaileyChou_like a teacher.jpg
 
 # Build settings
 markdown: kramdown
