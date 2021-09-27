@@ -56,21 +56,21 @@ plugins:
 
 author:
   name   : "Hailey Chou"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/test.jpg"
+  bio    : "to record Hailey's serendipity in life"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://serendipityinlife.art"
+   # - label: "Twitter"
+   #  icon: "fab fa-fw fa-twitter-square"
+   #   url: "https://twitter.com/"
+   # - label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+   #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/haileyhzzz?utm_medium=copy_link"
 
 footer:
   links:
