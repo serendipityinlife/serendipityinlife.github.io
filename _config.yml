@@ -21,17 +21,14 @@ github_username:
 minimal_mistakes_skin: contrast
 search: true
 
-layout: single
-# teaser: /assets/images/HaileyChou_like a teacher.jpg
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: CN # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
