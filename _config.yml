@@ -24,8 +24,6 @@ search: true
 layout: single
 # teaser: /assets/images/HaileyChou_like a teacher.jpg
 
-show_date: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -97,10 +95,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
