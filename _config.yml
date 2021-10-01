@@ -24,6 +24,8 @@ search: true
 layout: single
 # teaser: /assets/images/HaileyChou_like a teacher.jpg
 
+show_date: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
