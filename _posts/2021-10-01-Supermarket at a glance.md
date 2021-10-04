@@ -22,3 +22,11 @@ tags:
 <a href="https://imgur.com/Cvl3dsO"><img src="https://imgur.com/Cvl3dsO.jpg" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/BaH98iN"><img src="https://imgur.com/BaH98iN.jpg" title="source: imgur.com" /></a>
+
+<script src="https://utteranc.es/client.js"
+        repo="serendipityinlife/serendipityinlife.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
