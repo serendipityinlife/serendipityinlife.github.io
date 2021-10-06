@@ -1,5 +1,5 @@
 ---
-title: "Serendipity from Mr, Conch"
+title: "Serendipity from Mr. Conch"
 categories:
   - Blog
 tags:
