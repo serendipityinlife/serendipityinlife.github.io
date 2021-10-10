@@ -7,7 +7,7 @@ tags:
   - HongKong
 ---
 
-@ Beauty's face
+@ Beauty's cheek
 
 <a href="https://imgur.com/MexILnC"><img src="https://i.imgur.com/MexILnC.jpg" title="source: imgur.com" /></a>
 
