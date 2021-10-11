@@ -1,5 +1,5 @@
 ---
-title: "Pineapple buns"
+title: "White pineapple buns"
 categories:
   - Blog
 tags:
