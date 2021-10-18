@@ -7,7 +7,7 @@ tags:
   - HongKong
 ---
 
-@ Centrl, HK
+@ Central, HK
 
 <a href="https://imgur.com/BFbBIYz"><img src="https://i.imgur.com/BFbBIYz.jpg" title="source: imgur.com" /></a>
 
