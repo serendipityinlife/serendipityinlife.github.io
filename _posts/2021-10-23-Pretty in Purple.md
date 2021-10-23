@@ -1,5 +1,5 @@
 ---
-title: "Pretty in purple"
+title: "Pretty in Purple"
 categories:
   - Blog
 tags:
