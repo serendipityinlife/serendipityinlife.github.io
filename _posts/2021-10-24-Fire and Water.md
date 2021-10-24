@@ -23,10 +23,6 @@ tags:
 
 <a href="https://imgur.com/7vGqMb4"><img src="https://i.imgur.com/7vGqMb4.jpg" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/uuBNPxY"><img src="https://i.imgur.com/uuBNPxY.jpg" title="source: imgur.com" /></a>
-
-<a href="https://imgur.com/4OGfv3V"><img src="https://i.imgur.com/4OGfv3V.jpg" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/YrozTod"><img src="https://i.imgur.com/YrozTod.jpg" title="source: imgur.com" /></a>
 
 <script src="https://utteranc.es/client.js"
