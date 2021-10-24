@@ -7,7 +7,7 @@ tags:
   - HongKong
 ---
 
-@ Admiralty, HK
+@ K11, HK
 
 <a href="https://imgur.com/9du2EnP"><img src="https://i.imgur.com/9du2EnP.jpg" title="source: imgur.com" /></a>
 
