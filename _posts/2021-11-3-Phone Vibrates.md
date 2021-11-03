@@ -9,10 +9,10 @@ tags:
 
 @ Work
 
-when my watch vibrates
-when my phone vibrates
-i thought it's you missing me and send me msg
-but it turn out to be it's me who missing you
+when my watch vibrates <br/>
+when my phone vibrates <br/>
+i thought it's you missing me and send me msg <br/>
+but it turn out to be it's me who missing you <br/>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
