@@ -1,5 +1,5 @@
 ---
-title: City of Serendipity"
+title: "City of Serendipity"
 categories:
   - Blog
 tags:
