@@ -9,7 +9,7 @@ tags:
 
 @ WKCD Art Park, HK
 
-<a href="https://imgur.com/a/y8I2Lv1"><img src="https://i.imgur.com/a/y8I2Lv1.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/lt26DkK"><img src="https://i.imgur.com/lt26DkK.jpg" title="source: imgur.com" /></a>
 
 
 <script src="https://utteranc.es/client.js"
