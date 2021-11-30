@@ -9,7 +9,7 @@ tags:
 
 @ WKCD Art Park, HK
 
-damn i am fucking missing u
+damn i am fucking miss u
 
 <a href="https://imgur.com/xYhsaME"><img src="https://i.imgur.com/xYhsaME.jpg" title="source: imgur.com" /></a>
 
