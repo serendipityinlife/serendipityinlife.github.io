@@ -5,11 +5,14 @@ categories:
 tags:
   - Image
   - HongKong
+date: 2021-12-06T00:41:20
 ---
 
 @ Living room, HK
 
-[Imgur](https://i.imgur.com/Kxdryyp.mp4)
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/Kxdryyp.mp4" type="video/mp4">
+</video>
 
 
 <script src="https://utteranc.es/client.js"
