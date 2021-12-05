@@ -9,7 +9,7 @@ tags:
 
 @ Living room, HK
 
-<a href="https://imgur.com/Kxdryyp"><img src="https://i.imgur.com/Kxdryyp.mp4" title="source: imgur.com" /></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Kxdryyp" data-context="false" ><a href="//imgur.com/a/Kxdryyp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <script src="https://utteranc.es/client.js"
