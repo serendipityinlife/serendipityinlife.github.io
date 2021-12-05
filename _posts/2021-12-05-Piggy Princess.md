@@ -1,5 +1,5 @@
 ---
-title: "PigPig Princess"
+title: "Piggy Princess"
 categories:
   - Blog
 tags:
