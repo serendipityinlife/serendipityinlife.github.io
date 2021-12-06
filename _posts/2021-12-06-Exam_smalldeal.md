@@ -13,6 +13,8 @@ tags:
 
 <a href="https://imgur.com/5v6lrJG"><img src="https://i.imgur.com/5v6lrJG.jpg" title="source: imgur.com" /></a>
 
+<a href="https://imgur.com/d002nk4"><img src="https://i.imgur.com/d002nk4.jpg" title="source: imgur.com" /></a>
+
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
