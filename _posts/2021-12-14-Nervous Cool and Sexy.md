@@ -1,5 +1,5 @@
 ---
-title: "Nervous Cool and Sexy"
+title: "Nervous, Cool and Sexy"
 categories:
   - Blog
 tags:
