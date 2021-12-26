@@ -23,13 +23,44 @@ tags:
 下车之后先去找了个卫生间，然后选了家咖啡店坐下来品尝下咖啡。 她说对面的大叔好像克林顿哈哈哈哈。说不好还真是。（不是的我查了查推特他在美国:)）
 坐了一会儿她又开始把椰汁加进她的黑咖啡了:)
 时间过得特别快，她上个厕所差点让他们赶不上船哈哈。走之前还拍了张她喜欢的照片。
-这次船上她有点累，开始闭目养神了。下船后先去了IFC上厕所，上厕所之前还拍了下商场的橱柜。 之后他带她去了她约了人吃饭的地方。一开始找不到位置绕了一圈才找到的。他就随便找了个快餐吃完在711借了个充电宝往铜锣湾去了。先去利舞台买上次看上的蛋黄哥短袖，运气真好剩下最后两三件还刚好是对的size。然后马不停蹄去了买Le Labo的香水。他记得有一次陪她逛街她提到好像是喜欢这家Rose的味道就记下了，准备买这个做圣诞礼物。
+这次船上她有点累，开始闭目养神了。下船后先去了IFC上厕所，上厕所之前还拍了下商场的橱柜。还路过了ifc的东方列车主题展览。
+之后他带她去了她约了人吃饭的地方。一开始找不到位置绕了一圈才找到的。他就随便找了个快餐吃完在711借了个充电宝往铜锣湾去了。先去利舞台买上次看上的蛋黄哥短袖，运气真好剩下最后两三件还刚好是对的size。然后马不停蹄去了买Le Labo的香水。他记得有一次陪她逛街她提到好像是喜欢这家Rose的味道就记下了，准备买这个做圣诞礼物。
 买完就回湾仔在篮球场找了个地方坐下查邮件等她吃完饭。
 等她吃完饭的召唤，他就过去带她去利东街逛灯饰跟圣诞树。他想着要怎么送比较特别呢，他就带她到圣诞树下问，你说圣诞树下面会不会偷偷藏了礼物？她那时候因为照片没拍好还有点郁闷，一边说怎么可能，他就打开书包拿出了蛋黄哥的衣服说圣诞快乐~她一下子多云转晴哈哈，她还在处理收到蛋黄哥圣诞礼物的时候，他拿出了香水，看得出她巨惊喜and喜欢，整个人都亮了。看得出是很喜欢。
 
 想想在圣诞树下收到礼物应该是很开心了吧 :)
 
+<a href="https://imgur.com/UdBPwXq"><img src="https://i.imgur.com/UdBPwXq.jpg" title="source: imgur.com" /></a>
 
+<a href="https://imgur.com/5NVGoFX"><img src="https://i.imgur.com/5NVGoFX.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/rlIdLfG"><img src="https://i.imgur.com/rlIdLfG.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/4ywHLmC"><img src="https://i.imgur.com/4ywHLmC.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/ik2Y8fl"><img src="https://i.imgur.com/ik2Y8fl.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/ExirbVm"><img src="https://i.imgur.com/ExirbVm.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/BmdWdwi"><img src="https://i.imgur.com/BmdWdwi.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/dzgciVI"><img src="https://i.imgur.com/dzgciVI.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/WkE6KvA"><img src="https://i.imgur.com/WkE6KvA.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/74gnC5o"><img src="https://i.imgur.com/74gnC5o.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/yQHDlGr"><img src="https://i.imgur.com/yQHDlGr.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/k6aISmH"><img src="https://i.imgur.com/k6aISmH.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/hlmbeR6"><img src="https://i.imgur.com/hlmbeR6.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/DzWzaGT"><img src="https://i.imgur.com/DzWzaGT.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/YHa1PwN"><img src="https://i.imgur.com/YHa1PwN.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/xwxfVn0"><img src="https://i.imgur.com/xwxfVn0.jpg" title="source: imgur.com" /></a>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
