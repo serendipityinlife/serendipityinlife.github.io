@@ -11,7 +11,7 @@ tags:
 
 <a href="https://imgur.com/jxhImHK"><img src="https://i.imgur.com/jxhImHK.jpeg" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/9VKBWKA"><img src="https://i.imgur.com/9VKBWKA.jpeg" title="source: imgur.com" /></a>
+
 
 
 <script src="https://utteranc.es/client.js"
