@@ -1,5 +1,5 @@
 ---
-title: "Dreamer desperated in reality"
+title: "Dreamer desperate in reality"
 categories:
   - Blog
 tags:
