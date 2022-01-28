@@ -7,7 +7,7 @@ tags:
   - HongKong
 ---
 
-{% last_modified_at %Y:%B:%A:%d:%S:%R %}
+{% last_modified_at %}
 
 @ Glass House
 
