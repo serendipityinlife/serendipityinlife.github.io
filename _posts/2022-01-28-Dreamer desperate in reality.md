@@ -7,6 +7,8 @@ tags:
   - HongKong
 ---
 
+{% last_modified_at %Y:%B:%A:%d:%S:%R %}
+
 @ Glass House
 
 <a href="https://imgur.com/n4MhlKn"><img src="https://i.imgur.com/n4MhlKn.jpg" title="source: imgur.com" /></a>
