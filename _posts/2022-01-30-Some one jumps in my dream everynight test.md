@@ -2,6 +2,7 @@
 title: "Some one jumps in my dream everynight test"
 categories:
   - Blog
+date: 2022-01-30
 tags:
   - Image
   - HongKong
