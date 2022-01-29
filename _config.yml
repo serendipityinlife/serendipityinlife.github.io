@@ -116,6 +116,8 @@ defaults:
       layout: single
       author_profile: true
 
+future: true
+
 category_archive:
   type: liquid
   path: /categories/
