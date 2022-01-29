@@ -78,7 +78,7 @@ author:
    #   url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/haileyhzzz?utm_medium=copy_link"
+      url: "https://instagram.com/haileyhzzz"
 
 footer:
   links:
@@ -93,7 +93,7 @@ footer:
       url: "https://weibo.com/journeycola" 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/haileyhzzz?utm_medium=copy_link"
+      url: "https://instagram.com/haileyhzzz"
 
 defaults:
   # _posts
