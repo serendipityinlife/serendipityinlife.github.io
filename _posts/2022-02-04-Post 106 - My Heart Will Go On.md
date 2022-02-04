@@ -1,5 +1,5 @@
 ---
-title: "My Heart Will Go On"
+title: "Post 106 - My Heart Will Go On"
 categories:
   - Blog
 my_variable: open-embed.html
