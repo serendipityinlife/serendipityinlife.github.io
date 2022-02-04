@@ -1,5 +1,5 @@
 ---
-title: "Post 107 - What are you thinking about"
+title: "Post 107 - What are you thinking about on the ferry"
 categories:
   - Blog
 tags:
