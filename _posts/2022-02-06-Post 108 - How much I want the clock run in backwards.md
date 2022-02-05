@@ -1,5 +1,5 @@
 ---
-title: "Post 108 - How much I want the time run in backwards"
+title: "Post 108 - How much I want the clock run in backwards"
 categories:
   - Blog
 tags:
