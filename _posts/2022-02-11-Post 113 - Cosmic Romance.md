@@ -1,5 +1,5 @@
 ---
-title: "Post 113 - Rosette Nebula"
+title: "Post 113 - Cosmic Romance"
 categories:
   - Blog
 tags:
