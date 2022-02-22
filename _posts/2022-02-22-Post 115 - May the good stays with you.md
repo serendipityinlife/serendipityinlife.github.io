@@ -7,7 +7,7 @@ tags:
   - HongKong
 ---
 
-@ Empire Prestige TST
+@ from Empire Prestige TST to whereever you are
 
 <a href="https://imgur.com/X2LgfEM"><img src="https://i.imgur.com/X2LgfEM.jpg" title="source: imgur.com" /></a>
 
