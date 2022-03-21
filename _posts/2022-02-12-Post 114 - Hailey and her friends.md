@@ -9,7 +9,7 @@ tags:
 
 @ Lee Tung Street 
 
-<a href="https://imgur.com/2ulOSwA"><img src="https://i.imgur.com/2ulOSwA.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/EtrW9sW"><img src="https://i.imgur.com/EtrW9sW.png" title="source: imgur.com" /></a>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
