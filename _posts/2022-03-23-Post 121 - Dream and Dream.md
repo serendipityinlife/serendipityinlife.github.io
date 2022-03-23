@@ -5,6 +5,8 @@ categories:
 tags:
   - Image
   - HongKong
+Weather:
+  - Rainy
 ---
 
 @ Rainy Day
