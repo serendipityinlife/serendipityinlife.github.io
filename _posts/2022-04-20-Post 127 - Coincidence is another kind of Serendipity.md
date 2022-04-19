@@ -10,7 +10,7 @@ tags:
 
 Just see u keep changing the pic of the post like several times, what a coincidence
 
-<a href="https://imgur.com/a/ZRpt6yv"><img src="https://imgur.com/a/ZRpt6yv.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/clT3PHK"><img src="https://i.imgur.com/clT3PHK.jpg" title="source: imgur.com" /></a>
 
 Pieces in life brings u as well, even like Walmart
 
