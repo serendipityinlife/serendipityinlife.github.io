@@ -14,7 +14,9 @@ tags:
 
 <a href="https://imgur.com/gKDkRLl"><img src="https://i.imgur.com/gKDkRLl.jpg" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/CJnM1en"><img src="https://i.imgur.com/CJnM1en.mp4" title="source: imgur.com" /></a>
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/CJnM1en.mp4" type="video/mp4">
+</video>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
