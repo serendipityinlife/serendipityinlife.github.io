@@ -4,13 +4,18 @@ categories:
   - Blog
 tags:
   - Image
+  - HongKong
 ---
 
-@ Shanwei Railway Station
+@ St Stephen's Lane
 
+<a href="https://imgur.com/76LpWyI"><img src="https://i.imgur.com/76LpWyI.jpg" title="source: imgur.com" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fyrsExw_LUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 and yes, everyday.
 
-<a href="https://imgur.com/EJGX6ex"><img src="https://i.imgur.com/EJGX6ex.jpg" title="source: imgur.com" /></a>
+
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
