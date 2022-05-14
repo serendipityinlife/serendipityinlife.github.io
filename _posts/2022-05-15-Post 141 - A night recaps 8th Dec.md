@@ -18,6 +18,8 @@ tags:
 
 <a href="https://imgur.com/IDeM9RR"><img src="https://i.imgur.com/IDeM9RR.jpg" title="source: imgur.com" /></a>
 
+<a href="https://imgur.com/lElFqcA"><img src="https://i.imgur.com/lElFqcA.jpg" title="source: imgur.com" /></a>
+
 3:00
 
 <script src="https://utteranc.es/client.js"
