@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "In case you dont remember the day with serendipity"
 categories:
   - Blog
