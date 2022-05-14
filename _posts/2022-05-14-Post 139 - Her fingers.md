@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Post 139 - Her fingers"
 categories:
   - Blog
