@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Post 140 - Because he can't help to water the rose"
 categories:
   - Blog
