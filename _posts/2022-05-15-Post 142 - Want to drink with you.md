@@ -27,3 +27,11 @@ To the moon
 <a href="https://imgur.com/YoKSpnQ"><img src="https://i.imgur.com/YoKSpnQ.jpg" title="source: imgur.com" /></a>
 
 23:10
+
+<script src="https://utteranc.es/client.js"
+        repo="serendipityinlife/serendipityinlife.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
