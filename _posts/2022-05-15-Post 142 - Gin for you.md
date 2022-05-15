@@ -1,5 +1,5 @@
 ---
-title: "Post 142 - Want to drink with you"
+title: "Post 142 - Gin for you"
 categories:
   - Blog
 tags:
@@ -9,23 +9,30 @@ tags:
 
 @ Chrismas Eve
 
-Want to drink with you
+Wanna drink with you
+<br/>
 <br/>
 Till we drunk
 <br/>
-Getting close can smile the fragrance deep from your stomach
+<br/>
+Getting close and smile the fragrance deep from your stomach
+<br/>
 <br/>
 Making you more close to a rose
 <br/>
+<br/>
 Then we dance
 <br/>
+<br/>
 To the moon
+<br/>
+<br/>
 
 <a href="https://imgur.com/cW4qEEz"><img src="https://i.imgur.com/cW4qEEz.jpg" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/YoKSpnQ"><img src="https://i.imgur.com/YoKSpnQ.jpg" title="source: imgur.com" /></a>
 
-23:10
+23:35
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
