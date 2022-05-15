@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Post 141 - A night recaps 8th Dec"
 categories:
   - Blog
