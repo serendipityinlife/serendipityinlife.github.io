@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Post 142 - Want to drink with you"
 categories:
   - Blog
