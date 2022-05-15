@@ -19,7 +19,7 @@ description: to record Hailey's serendipity in life
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: contrast
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -112,11 +112,14 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-    values:
-      layout: single
-      author_profile: true
 
 future: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-X6NN2Y8K4K"
+    anonymize_ip: false # default
 
 category_archive:
   type: liquid
