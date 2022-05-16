@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Post 138 - So falling"
 categories:
   - Blog
