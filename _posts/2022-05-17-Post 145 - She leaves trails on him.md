@@ -14,7 +14,7 @@ tags:
 
 <a href="https://imgur.com/AuR7Rw0"><img src="https://i.imgur.com/AuR7Rw0.jpg" title="source: imgur.com" /></a>
 
-23:51
+21:38
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
