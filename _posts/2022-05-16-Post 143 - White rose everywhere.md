@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - Image
+  - Video
 ---
 
 @ Driving and absent-minded
