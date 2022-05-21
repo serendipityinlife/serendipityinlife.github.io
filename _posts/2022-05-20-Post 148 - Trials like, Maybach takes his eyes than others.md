@@ -10,7 +10,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzoSndOQIZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1:45
+11:34
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
