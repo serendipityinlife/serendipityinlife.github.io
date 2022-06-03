@@ -25,7 +25,8 @@ maybe not
 <a href="https://imgur.com/rCCyJlu"><img src="https://i.imgur.com/rCCyJlu.jpg" title="source: imgur.com" /></a>
 <br/>
 <br/>
-
+0:40
+<br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
