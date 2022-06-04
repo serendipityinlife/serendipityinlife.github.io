@@ -18,10 +18,13 @@ exactly with the below wearing
 <a href="https://imgur.com/fGEiF8H"><img src="https://i.imgur.com/fGEiF8H.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/d4yoImm"><img src="https://i.imgur.com/d4yoImm.jpg" title="source: imgur.com" /></a>
 <br/>
+
+<br/>
+doubt it if she can shoot it in and may be she's better in Billiards lol
 <br/>
 
 <br/>
-
+0:54
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
