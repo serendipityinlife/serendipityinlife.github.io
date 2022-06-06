@@ -1,5 +1,5 @@
 ---
-title: "Post 163 - Think of girl making up"
+title: "Post 163 - Think of a girl making up"
 categories:
   - Blog
 tags:
@@ -9,7 +9,7 @@ tags:
 @ memory
 
 <br/>
-These days, the scen of the girl making up in front of a glass keep coming up
+These days, the scen of the girl making up in front of a glass keep coming up， like applying a lipstick
 <br/>
 <br/>
 Why he didnot taking a pic for that scen before and what a pity, it's beatiful， and he would like to take one that she make up for him
