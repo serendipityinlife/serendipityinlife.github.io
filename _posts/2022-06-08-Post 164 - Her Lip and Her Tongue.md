@@ -25,11 +25,11 @@ and Her Tongue
 <br/>
 
 <br/>
-and make him up
+which make him up
 <br/>
 
 <br/>
-1:49
+0:41
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
