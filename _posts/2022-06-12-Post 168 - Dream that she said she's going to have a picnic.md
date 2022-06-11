@@ -29,7 +29,7 @@ a picnic should be fun
 <br/>
 
 <br/>
-0:56
+0:52
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
