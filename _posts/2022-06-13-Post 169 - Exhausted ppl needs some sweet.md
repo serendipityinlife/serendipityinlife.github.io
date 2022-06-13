@@ -1,5 +1,5 @@
 ---
-title: "Post 168 - Exhausted ppl needs some sweet"
+title: "Post 169 - Exhausted ppl needs some sweet"
 categories:
   - Blog
 tags:
@@ -14,7 +14,7 @@ tags:
 that day he went for a run and try to bring back some sweet, but unluckyly it closed... 
 <br/>
 <br/>
-he buy another one anyway
+he bought another one anyway
 <br/>
 <br/>
 hope he is not smelly that night
