@@ -11,7 +11,7 @@ tags:
 <br/>
 
 <br/>
-happen to recall that she slip of the tongue call him babe in front of everyone hah
+happen to recall that she slip of the tongue call him 宝宝 in front of everyone hah
 
 <br/>
 <a href="https://imgur.com/hq9JqPg"><img src="https://i.imgur.com/hq9JqPg.jpg" title="source: imgur.com" /></a>
@@ -29,7 +29,7 @@ happen to recall that she slip of the tongue call him babe in front of everyone 
 <br/>
 
 <br/>
-0:52
+0:11
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
