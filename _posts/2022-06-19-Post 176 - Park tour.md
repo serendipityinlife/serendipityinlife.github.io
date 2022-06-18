@@ -23,7 +23,7 @@ should have take more pics
 <a href="https://imgur.com/jaH6baL"><img src="https://i.imgur.com/jaH6baL.jpg" title="source: imgur.com" /></a>
 <br/>
 
-0:39
+1:29
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
