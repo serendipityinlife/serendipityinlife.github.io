@@ -20,9 +20,6 @@ don't know where to put the hands,
 and then hand in hand
 <br/>
 <br/>
-should be romantic
-<br/>
-<br/>
 [there is a pic here but delete for imagination]
 <br/>
 <br/>
