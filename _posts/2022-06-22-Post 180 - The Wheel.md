@@ -36,8 +36,9 @@ and fun that the ppl there warned them put on the mask hah, who knows what there
 However, when they fly, times flies as well
 <br/>
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fEoxAaFcW3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
-23:07
+23:55
 <br/>
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
