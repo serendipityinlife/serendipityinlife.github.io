@@ -13,7 +13,7 @@ tags:
   <source src="https://i.imgur.com/f405nka.mp4" type="video/mp4">
 </video>
 
-
+0:33
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
