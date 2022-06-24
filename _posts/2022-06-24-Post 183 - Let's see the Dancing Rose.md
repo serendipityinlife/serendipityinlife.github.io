@@ -13,6 +13,8 @@ tags:
   <source src="https://i.imgur.com/f405nka.mp4" type="video/mp4">
 </video>
 
+<a href="https://imgur.com/EjTltUL"><img src="https://i.imgur.com/EjTltUL.gif" title="source: imgur.com" /></a>
+
 0:33
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
