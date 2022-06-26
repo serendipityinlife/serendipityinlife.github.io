@@ -19,7 +19,7 @@ Where tells stories day and night
 <br/>
 <br/>
 
-0:03
+0:38
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
