@@ -26,7 +26,7 @@ he thinks that she may want to fly like that as well as she said that she would 
 <br/>
 
 
-0:26
+0:45
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
