@@ -26,7 +26,7 @@ and become a new friend for Fish
 <br/>
 
 
-0:45
+0:10
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
