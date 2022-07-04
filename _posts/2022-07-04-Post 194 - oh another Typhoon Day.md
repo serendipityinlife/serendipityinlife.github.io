@@ -19,15 +19,24 @@ reminds me of the Pics and videos, surprise to see that she did not wuhu fly awa
 <a href="https://imgur.com/L41ijhq"><img src="https://i.imgur.com/L41ijhq.jpg" title="source: imgur.com" /></a>
 <br/>
 <br/>
-<a href="https://imgur.com/1HEC9Cp"><img src="https://i.imgur.com/1HEC9Cp.mp4" title="source: imgur.com" /></a>
+
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/1HEC9Cp.mp4" type="video/mp4">
+</video>
 <br/>
-<a href="https://imgur.com/xT5hg7w"><img src="https://i.imgur.com/xT5hg7w.mp4" title="source: imgur.com" /></a>
+
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/xT5hg7w.mp4" type="video/mp4">
+</video>
 <br/>
-<a href="https://imgur.com/1G0hC9L"><img src="https://i.imgur.com/1G0hC9L.mp4" title="source: imgur.com" /></a>
+
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/1G0hC9L.mp4" type="video/mp4">
+</video>
 <br/>
 
 
-10:40
+17:24
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
