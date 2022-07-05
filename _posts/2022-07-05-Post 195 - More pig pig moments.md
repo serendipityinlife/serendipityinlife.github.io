@@ -11,7 +11,8 @@ tags:
 <br/>
 
 <br/>
-
+<a href="https://imgur.com/t00nVA9"><img src="https://i.imgur.com/t00nVA9.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/GrX2hDy"><img src="https://i.imgur.com/GrX2hDy.jpg" title="source: imgur.com" /></a>
 <br/>
 
 <br/>
@@ -23,7 +24,7 @@ tags:
 
 
 
-17:24
+13:37
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
         issue-term="pathname"
