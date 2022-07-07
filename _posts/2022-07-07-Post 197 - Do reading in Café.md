@@ -11,6 +11,7 @@ tags:
 <br/>
 <a href="https://imgur.com/LyscY8J"><img src="https://i.imgur.com/LyscY8J.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/DwFe0zl"><img src="https://i.imgur.com/DwFe0zl.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/zpB3En1"><img src="https://i.imgur.com/zpB3En1.jpg" title="source: imgur.com" /></a>
 <br/>
 
 <br/>
@@ -21,6 +22,8 @@ always thinking it's a luxury to do reading in Café in office hours
 Don't know if she found any other better places
 <br/>
 <br/>
+
+17:40
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
