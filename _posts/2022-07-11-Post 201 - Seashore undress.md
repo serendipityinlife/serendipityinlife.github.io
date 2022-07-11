@@ -1,0 +1,36 @@
+---
+title: "Post 201 - Seashore undress"
+categories:
+  - Blog
+tags:
+  - Picture
+---
+
+@ Pink Seashore
+ 
+
+many times seeing the videos like this thinking about she should have take this with the pink seashore as well
+<br/>
+<br/>
+<iframe src="//player.bilibili.com/player.html?aid=679498649&bvid=BV16S4y1g7Gh&cid=541045938&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br/>
+<br/>
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+
+19:10
+
+<script src="https://utteranc.es/client.js"
+        repo="serendipityinlife/serendipityinlife.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
