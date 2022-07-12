@@ -16,7 +16,7 @@ The light travels in the universe for 13 billion years to see u
 <br/>
 <br/>
 <br/>
-https://web.wwtassets.org/specials/2022/jwst-smacs/?continueFlag=79c0edc311e765ce2e170d2033ff5ecb
+[Click me to see via the Telescope](https://web.wwtassets.org/specials/2022/jwst-smacs/?continueFlag=79c0edc311e765ce2e170d2033ff5ecb)
 <br/>
 <br/>
 13:58
