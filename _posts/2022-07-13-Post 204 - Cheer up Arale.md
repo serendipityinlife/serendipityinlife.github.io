@@ -15,6 +15,10 @@ tags:
 <a href="https://imgur.com/FOtNalb"><img src="https://i.imgur.com/FOtNalb.jpg" title="source: imgur.com" /></a>
 <br/>
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qtwy71JSf1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
 
 17:36
 
