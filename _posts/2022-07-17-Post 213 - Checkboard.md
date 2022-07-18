@@ -42,7 +42,14 @@ if he can make a wish now, that would be if only he could have some of her new p
 <br/>
 <br/>
 
-1:06
+and update a video just found in the cabin
+
+<video width="480" height="320" controls="controls">
+  <source src="https://imgur.com/ErYtjxG.mp4" type="video/mp4">
+</video>
+<br/>
+
+15:15
 
 <br/>
 <script src="https://utteranc.es/client.js"
