@@ -7,7 +7,20 @@ tags:
 ---
 
 @ Brick Lane
- 
+ <br/>
+<br/>
+in case missing it
+<br/>
+<br/>
+and update a video just found in the cabin
+<br/>
+<br/>
+<video width="480" height="320" controls="controls">
+  <source src="https://imgur.com/ErYtjxG.mp4" type="video/mp4">
+</video>
+<br/>
+
+-----------------
 <br/>
 the first brunch they had together
 <br/>
@@ -42,12 +55,7 @@ if he can make a wish now, that would be if only he could have some of her new p
 <br/>
 <br/>
 
-and update a video just found in the cabin
 
-<video width="480" height="320" controls="controls">
-  <source src="https://imgur.com/ErYtjxG.mp4" type="video/mp4">
-</video>
-<br/>
 
 15:15
 
