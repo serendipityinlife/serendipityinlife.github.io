@@ -10,7 +10,7 @@ tags:
 
 <a href="https://imgur.com/jkmapqH"><img src="https://i.imgur.com/jkmapqH.jpg" title="source: imgur.com" /></a>
 
-Said that will bought her a drink next visit and he drink in all
+Said that will bought her a drink next visit and he drink it all
 
 Rose tastes good
 
