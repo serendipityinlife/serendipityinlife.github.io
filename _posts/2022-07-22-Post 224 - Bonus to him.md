@@ -25,7 +25,10 @@ and hard to react to the "take care of yourself"
 <br/>
 and thanks for today's last bonus
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IHLkFr0" data-context="false" ><a href="//imgur.com/a/IHLkFr0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<video width="480" height="320" controls="controls">
+  <source src="https://imgur.com/IHLkFr0.mp4" type="video/mp4">
+</video>
+<br/>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
