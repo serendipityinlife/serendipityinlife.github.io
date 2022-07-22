@@ -12,8 +12,8 @@ tags:
 
 <br/>
 <br/>
-*
-I could stay awake just to hear you breathing<br/>
+
+*I could stay awake just to hear you breathing<br/>
 Watch you smile while you are sleeping<br/>
 While you're far away and dreaming<br/>
 I could spend my life in this sweet surrender<br/>
@@ -72,7 +72,7 @@ I don't want to fall asleep, yeah<br/>
 And I don't want to miss a thing<br/>
 *
 
-singing with what he've told her
+Thanks for singing with what he've told her
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
