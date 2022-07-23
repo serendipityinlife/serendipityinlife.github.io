@@ -1,5 +1,5 @@
 ---
-title: "Post 228 - A lagging phone"
+title: "Post 227 - Shoot with a lagging phone"
 categories:
   - Blog
 tags:
