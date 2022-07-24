@@ -19,7 +19,7 @@ things changes a lot
 <a href="https://imgur.com/zkbpZts"><img src="https://i.imgur.com/zkbpZts.jpg" title="source: imgur.com" /></a>
 <br/>
 <br/>
-but believes that they feels the same when he taking the photo and she making the post
+but believes that they feels the same when he taking the photo and she making the pose
 <br/>
 <br/>
 and wishes her stays in the same mood forever
