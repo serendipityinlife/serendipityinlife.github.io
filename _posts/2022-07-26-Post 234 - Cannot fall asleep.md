@@ -15,7 +15,6 @@ cannot fall asleep like he is the one who's going to fly
 
 1:00
 
-and he is sick that jealous of the air with her
 
 <script src="https://utteranc.es/client.js"  
         repo="serendipityinlife/serendipityinlife.github.io"
