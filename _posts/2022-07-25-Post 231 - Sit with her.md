@@ -22,7 +22,9 @@ but seems not easy for her to make choices as well hah
 
 maybe it's summer and very hot outside, have no appetite at all..
 
-but will definately want to try for her cook.
+but will definitely want to try for her cook.
+
+a lot of missssssssssssssssssssssssssssssssssing
 
 18:41
 
