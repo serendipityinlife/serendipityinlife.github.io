@@ -84,7 +84,7 @@ will not say bye to you
 </video>
 <br/>
 
-0:12
+0:00
 
 <script src="https://utteranc.es/client.js"  
         repo="serendipityinlife/serendipityinlife.github.io"
