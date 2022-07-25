@@ -28,14 +28,14 @@ he imaged that they will spending time togather at some coffee shops, or the cof
 but he always lives in his imagination, she lives her life as well, and the reality does not fit at all
 <br/>
 <br/>
-like he happens to show up in downstairs thinking maybe she could just go down stair for a walk, 
+like he happen to show up in downstairs thinking maybe she could just go down stair for a walk, 
 <br/>
 but cannot
 <br/>
 <br/>
 like he thinking may be the lastnight in shenzhen she will be at home, and he could show up and ask her finish shaving his mustache
 <br/>
-but of coz she will have fun outside
+but of coz she will be having fun outside
 <br/>
 <br/>
 selfish him .
