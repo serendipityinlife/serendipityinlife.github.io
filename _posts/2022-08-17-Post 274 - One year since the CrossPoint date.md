@@ -10,18 +10,18 @@ tags:
 
 
 <br/>
-lots of thoughts on his mind about how he will be a part or her Hong Kong Serendipity Journey, in the mid night of 17 Aug 2021
+lots of thoughts in his mind about how he will be a part or her Hong Kong Serendipity Journey, in the mid night of 17 Aug 2021
 <br/>
 <br/>
 all with smiling faces 
 <br/>
 <br/>
-but never thinking about crashing her some day and be moved in of her love list and out 
+but never thinking about crashing her some day and be moved out of her love list 
 <br/>
 <br/>
 deleted words wrote before as he finally awares that he always thinking in his own way until he was reminded and reminded again that he lost her love 
 <br/>
-those words seem inappropriate and he seeing him like a embarrassing clown
+those words seem inappropriate, like a embarrassing clown
 <br/>
 <br/>
 he does adore her, than before, with him feels negative emotions, more and more when seeing trails with her
@@ -31,7 +31,7 @@ he does adore her, than before, with him feels negative emotions, more and more 
 <br/>
 anyway he does wishes she having a new serendipity journey in the new city with possibility
 <br/>
-and smile and feel the city brings her much much dopamine
+and smiles and feels the city that could brings her much much dopamine
 <br/>
 <a href="https://imgur.com/3lSaH5i"><img src="https://i.imgur.com/3lSaH5i.jpg" title="source: imgur.com" /></a>
 (save the 4 letters word) U
