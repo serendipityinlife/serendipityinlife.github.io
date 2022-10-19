@@ -6,10 +6,7 @@ tags:
   - Picture
 ---
 
-<a href="https://imgur.com/ejpVTZE"><img src="https://i.imgur.com/ejpVTZE.jpg" title="source: imgur.com" /></a>
-
-
-ejpVTZE
+<a href="https://imgur.com/RyawAq5"><img src="https://i.imgur.com/RyawAq5.jpg" title="source: imgur.com" /></a>
 
 <script src="https://utteranc.es/client.js"
         repo="serendipityinlife/serendipityinlife.github.io"
