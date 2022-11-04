@@ -1,5 +1,5 @@
 ---
-title: "Post 336 - Parallel Universe Day"
+title: "Post 336 - Happy Parallel Universe Day"
 categories:
   - Blog
 tags:
