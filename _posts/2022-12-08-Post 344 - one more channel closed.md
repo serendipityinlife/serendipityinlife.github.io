@@ -6,7 +6,7 @@ tags:
   - Picture
 ---
 
-believe it or not still think of her everyday , trigger like many things
+believe it or not still think of her everyday , trigger by many things
 <br/> 
 
 <a href="https://imgur.com/POb6YIE"><img src="https://i.imgur.com/POb6YIE.jpg" title="source: imgur.com" /></a>
