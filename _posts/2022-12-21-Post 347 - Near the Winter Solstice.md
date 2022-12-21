@@ -10,10 +10,9 @@ tags:
 
 it's Winter Solstice tmr and the lyrics just jump out
 
-<br/>
-<br/>
+<br/> 
 
-and a friend goes to Hin's live reminds me of the scene that someone run out of the Hong Kong Coliseum to his arm
+and a friend goes to Hin's live today reminds me of the scene that someone ran out of the Hong Kong Coliseum to his arm
 
 <a href="https://imgur.com/vPQSNQn"><img src="https://i.imgur.com/vPQSNQn.jpg" title="source: imgur.com" /></a>
 
