@@ -17,7 +17,9 @@ Reaching out to the end of 2022, the keep bet bonus is awarded to Hailey, which 
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3JJU_9YLmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
-Happy New Year and miss you.
+Happy New Year and
+<br/>
+miss you very much Hailey
 <br/>
 
 <script src="https://utteranc.es/client.js"
