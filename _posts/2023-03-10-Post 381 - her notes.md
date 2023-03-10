@@ -1,5 +1,5 @@
 ---
-title: "Post 381 - her note"
+title: "Post 381 - her notes"
 categories:
   - Blog
 tag:
